@@ -1,0 +1,1235 @@
+{
+  "intents": [
+    {
+      "intent": "greetings",
+      "examples": [
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hai"
+        },
+        {
+          "text": "Kia Ora"
+        },
+        {
+          "text": "Hey"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "location_info",
+      "examples": [
+        {
+          "text": "where is your secunderabad hospital"
+        },
+        {
+          "text": "what are the locations of your hospital"
+        },
+        {
+          "text": "where is your hospital located"
+        },
+        {
+          "text": "what are your branches"
+        },
+        {
+          "text": "where is malakpet hospital"
+        },
+        {
+          "text": "where is secunderabad hospital"
+        },
+        {
+          "text": "Where is somajiguda hospital"
+        },
+        {
+          "text": "What's the address of your Secunderabad hospital"
+        },
+        {
+          "text": "What's the address of your Malakpet hospital"
+        },
+        {
+          "text": "What's the address of your Somajiguda hospital"
+        },
+        {
+          "text": "What are your locations"
+        },
+        {
+          "text": "list of your locations"
+        },
+        {
+          "text": "Locations in Hyderabad"
+        },
+        {
+          "text": "list of location"
+        },
+        {
+          "text": "where is your somajiguda hospital"
+        },
+        {
+          "text": "Where is your malakpet hospital"
+        },
+        {
+          "text": "Give me a list of locations"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "diet_plan",
+      "examples": [
+        {
+          "text": "I'd like to know the diet plan for infants"
+        },
+        {
+          "text": "I'd like to know the diet plan for kids"
+        },
+        {
+          "text": "I'd like to know the diet to follow"
+        },
+        {
+          "text": "I'd like to know the diet plan for dialysis patients"
+        },
+        {
+          "text": "Can you suggest diet plan for pregnant"
+        },
+        {
+          "text": "Can you suggest the diet plan for diabetics"
+        },
+        {
+          "text": "can you suggest the diet plan for sugar patients"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "thank_you",
+      "examples": [
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Thx"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thnx"
+        },
+        {
+          "text": "Thanx"
+        },
+        {
+          "text": "Cheers!!"
+        },
+        {
+          "text": "thnku"
+        },
+        {
+          "text": "thnk you"
+        },
+        {
+          "text": "appreciate it"
+        },
+        {
+          "text": "thank u"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "doctors_avail",
+      "examples": [
+        {
+          "text": "when will be the chidren doctor available"
+        },
+        {
+          "text": "When will be the ENT doctor available"
+        },
+        {
+          "text": "When will be the Gynaecologist doctor available"
+        },
+        {
+          "text": "When will be the Gynaecologist available"
+        },
+        {
+          "text": "When will be the Heart specialist doctor available"
+        },
+        {
+          "text": "When will be the cardiologist available"
+        },
+        {
+          "text": "When will be the pediatrician available"
+        },
+        {
+          "text": "at what time children doctor available"
+        },
+        {
+          "text": "at what time heart specialist available"
+        },
+        {
+          "text": "When will be the general physician available"
+        },
+        {
+          "text": "when will be the neurologist available"
+        },
+        {
+          "text": "when will be the bones & joints specialist available"
+        },
+        {
+          "text": "when will be the orthopedics doctor available"
+        },
+        {
+          "text": "when will be the cancer specialist doctor available"
+        },
+        {
+          "text": "when will be the oncologist available"
+        },
+        {
+          "text": "when will be the skin specialist doctor available"
+        },
+        {
+          "text": "when will be the dermatologist avilable"
+        },
+        {
+          "text": "when will be the doctor available"
+        },
+        {
+          "text": "when will be the heart specialist available"
+        },
+        {
+          "text": "when will be the children specialist available"
+        },
+        {
+          "text": "when will be the children doctor available"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "goodbyes",
+      "examples": [
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Good Bye"
+        },
+        {
+          "text": "bye-bye"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "talk to you soon"
+        },
+        {
+          "text": "c ya"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hours_info",
+      "examples": [
+        {
+          "text": "What are your hours of operation in secunderabad"
+        },
+        {
+          "text": "when will open secunderabad hospital"
+        },
+        {
+          "text": "when will open somajiguda hospital"
+        },
+        {
+          "text": "what are your hours"
+        },
+        {
+          "text": "what days are you closed on"
+        },
+        {
+          "text": "what times are you open until"
+        },
+        {
+          "text": "when will open malakpet hospital"
+        },
+        {
+          "text": "when do you close"
+        },
+        {
+          "text": "when are you open"
+        },
+        {
+          "text": "what are your hours of operation"
+        },
+        {
+          "text": "Are you open on Sunday?"
+        },
+        {
+          "text": "Are you open on Saturday's?"
+        },
+        {
+          "text": "Are you open on religious days?"
+        },
+        {
+          "text": "Are you open on weekends?"
+        },
+        {
+          "text": "Are you open festival days?"
+        },
+        {
+          "text": "When do you open"
+        },
+        {
+          "text": "What are your hours of operation in somajiguda"
+        },
+        {
+          "text": "What are your hours of operation in malakpet"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "location",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "malakpet",
+          "synonyms": [
+            "Nalgonda X Roads"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "secunderabad",
+          "synonyms": [
+            "patny",
+            "Alexander Road",
+            "paradise"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Somajiguda",
+          "synonyms": [
+            "Panjagutta",
+            "Raj Bhavan Road",
+            "Hyderabad Central"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "person",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "infants",
+          "synonyms": [
+            "small children"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pregnant",
+          "synonyms": [
+            "pregnants",
+            "carrying person",
+            "carrying a child"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "diabetes",
+          "synonyms": [
+            "sugar patients"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "kids",
+          "synonyms": [
+            "children"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "doctors",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "GENERAL MEDICINE",
+          "synonyms": [
+            "Consultant Physician",
+            "Physician"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ENT",
+          "synonyms": [
+            "Ear",
+            "Nose",
+            "Throat",
+            "ENT Surgeon"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pediatrics",
+          "synonyms": [
+            "child specialist",
+            "kids specialist"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cardiology",
+          "synonyms": [
+            "Heart Specialist",
+            "Cardiologist"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "GYNAECOLOGY",
+          "synonyms": [
+            "GYNAECOLOGist",
+            "Obstetrician "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Dermatology",
+          "synonyms": [
+            "Skin Problems",
+            "Dermatologist",
+            "Skin specialist"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Oncology",
+          "synonyms": [
+            "Oncologist",
+            "Cancer problems",
+            "Surgical Oncology"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ORTHOPAEDICS",
+          "synonyms": [
+            " Joint Replacement",
+            "Arthroscopic",
+            "ORTHOPAEDIC",
+            "trauma",
+            "shoulder surgery"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "NEUROLOGY",
+          "synonyms": [
+            "Neurologist",
+            "Epileptologist"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Collect Other Names",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello $name. How can I help you? You can ask me about our Hospital hours, locations, doctors availability, or diet recommendations."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "context": {
+        "name": "<? input.text.substring(0, 1).toUpperCase() + input.text.substring(1) ?>"
+      },
+      "conditions": "true",
+      "dialog_node": "node_7_1590461510580",
+      "previous_sibling": "node_9_1590462498060"
+    },
+    {
+      "type": "standard",
+      "title": "Collect Sys-Person Name",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice to meet you $name. How can i help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "context": {
+        "name": "@sys-person"
+      },
+      "conditions": "@sys_person",
+      "dialog_node": "node_9_1590462498060"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Orthopedist Timings: <br>1)Dr.Srujan-9AM to 12PM 2)Dr.Charan-7PM to 11PM "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590487250790",
+      "conditions": "@doctors:ORTHOPAEDICS",
+      "dialog_node": "response_8_1590488315031",
+      "previous_sibling": "response_4_1590488246690"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "ENT Specialists Timings: <br>1) Dr.Raj-10AM to 2PM <br> 2) Dr.Teena - 6PM to 10PM"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590487250790",
+      "conditions": "@doctors:ENT",
+      "dialog_node": "response_5_1590487250790",
+      "previous_sibling": "response_4_1590487250790"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Dermatologist Timings:<br> 1) Dr.Firoz-10AM to 12PM <br>2)Dr.Amiya - 2PM to 6PM <br>3)Dr.Hema-6PM to 10PM"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590487250790",
+      "conditions": "@doctors:Dermatology",
+      "dialog_node": "response_4_1590488160802",
+      "previous_sibling": "response_10_1590488077875"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Oncologist Timings: <br>1) Dr.Sunder-10AM to 12PM<br>2)Dr.Geetha-5PM to 9PM"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590487250790",
+      "conditions": "@doctors:Oncology",
+      "dialog_node": "response_4_1590488246690",
+      "previous_sibling": "response_4_1590488160802"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Neurologist Timings:<br>1)Dr.Suma-10AM-1PM<br>2)Dr.Yashvita-6PM to 9PM"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590487250790",
+      "conditions": "@doctors:NEUROLOGY",
+      "dialog_node": "response_7_1590488486419",
+      "previous_sibling": "response_8_1590488315031"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Gynaecologist Timings:<br> 1) Dr.Divya-8AM to 12PM <br>2)Dr.Supriya - 2PM to 6PM <br>3)Dr.Kanika-7PM to 11PM"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590487250790",
+      "conditions": "@doctors:GYNAECOLOGY",
+      "dialog_node": "response_10_1590488077875",
+      "previous_sibling": "response_1_1590487977532"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Cardiologist Timings:<br> 1) Dr.DevikaRani-10AM to 12PM <br>2)Dr.Siva - 1PM to 6PM <br>3)Dr.HimaBindu-6PM to 11PM"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590487250790",
+      "conditions": "@doctors:Cardiology",
+      "dialog_node": "response_1_1590487977532",
+      "previous_sibling": "response_6_1590487250790"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Pediatrician Timings:<br> 1) Dr.Devi-8AM to 12PM <br>2)Dr.sekar - 2PM to 6PM <br>3)Dr.Hema-7PM to 11PM"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590487250790",
+      "conditions": "@doctors:pediatrics",
+      "dialog_node": "response_6_1590487250790",
+      "previous_sibling": "response_5_1590487250790"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "General Physicians Timings: <br> 1) Dr.Rao -9AM to 12AM<br>2)Dr.Mehta-1PM to 4 PM<br>3) Dr.Setu-6PM to 10PM"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590487250790",
+      "conditions": "@doctors:(GENERAL MEDICINE)",
+      "dialog_node": "response_4_1590487250790"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our Malakpet hospital is located at <a href=\"https://www.google.com/maps/place/Yashoda+Hospitals+-+Secunderabad/@17.4420841,78.4971468,15z/data=!4m5!3m4!1s0x0:0x6c6b682a3240114d!8m2!3d17.4420841!4d78.4971468\">Nalgonda X roads</a>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590483285342",
+      "conditions": "@location:malakpet",
+      "dialog_node": "response_6_1590483285342",
+      "previous_sibling": "response_5_1590483285342"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our Secunderabad hospital is located at <a href=\"https://www.google.com/maps/place/Yashoda+Hospitals+-+Secunderabad/@17.4420841,78.4971468,15z/data=!4m5!3m4!1s0x0:0x6c6b682a3240114d!8m2!3d17.4420841!4d78.4971468\">Alexander Road</a>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1590483285342",
+      "conditions": "@location:secunderabad",
+      "dialog_node": "response_5_1590483285342",
+      "previous_sibling": "response_4_1590483285342"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our Somajiguda hospital is located at <a href=\"https://www.google.com/maps/place/Yashoda+Hospitals+-+Secunderabad/@17.4420841,78.4971468,15z/data=!4m5!3m4!1s0x0:0x6c6b682a3240114d!8m2!3d17.4420841!4d78.4971468\">Raj Bhavan </a>Road, which is nearer to Panjagutta Central"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590483285342",
+      "conditions": "@location:Somajiguda",
+      "dialog_node": "response_4_1590483285342"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our Malakpet hospital is open in Weekends from 8AM to 8PM and in WeekDays from 10AM to 10PM except statutory holidays"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1590466825785",
+      "conditions": "@location:malakpet",
+      "dialog_node": "response_4_1590467217600",
+      "previous_sibling": "response_7_1590467148464"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our Secunderabad hospital is open in Weekends from 6AM to 10PM and in WeekDays from 8AM to 10PM except statutory holidays"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1590466825785",
+      "conditions": "@location:secunderabad",
+      "dialog_node": "response_7_1590467148464",
+      "previous_sibling": "response_9_1590466957171"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our Somajiguda hospital is open in Weekends from 7AM to 11PM and in WeekDays from 9AM to 9PM except statutory holidays"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590466825785",
+      "conditions": "@location:Somajiguda",
+      "dialog_node": "response_9_1590466957171"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_6_1590484936783",
+      "variable": "$person",
+      "dialog_node": "slot_1_1590484967589",
+      "previous_sibling": "handler_1_1590484966886"
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_6_1590484936783",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1590484966886"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "I'd suggest Pea Puree, Banana purée, Baby brown rice cereal, Avocado purée, Baked sweet potato purée, First carrots purée, Pumpkin thyme purée, and Veggies and sole purée for Infants"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1590484967589",
+      "conditions": "$person==\"infants\"",
+      "event_name": "filled",
+      "dialog_node": "handler_4_1590485455548",
+      "previous_sibling": "handler_10_1590485127575"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Diet for whom: infants or kids or sugar patients or pregnants"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1590484967589",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1590484967621",
+      "previous_sibling": "handler_10_1590484967621"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Avoid more sweetened beverages, junk foods and Oily foods"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1590484967589",
+      "conditions": "true",
+      "event_name": "nomatch",
+      "dialog_node": "handler_7_1590486027732",
+      "previous_sibling": "handler_9_1590485828822"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "I'd suggest Bananas, rice, applesauce, and toast foods, which are easy to digest and have a better likelihood of staying down than many other foods  for Kids"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1590484967589",
+      "conditions": "$person==\"kids\"",
+      "event_name": "filled",
+      "dialog_node": "handler_10_1590485127575",
+      "previous_sibling": "handler_2_1590484967621"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "I'd suggest Dairy Products, Legumes, Sweet Potatoes, Salmon, Eggs, and Meat for Pregnant Ladies"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1590484967589",
+      "conditions": "$person==\"pregnant\"",
+      "event_name": "filled",
+      "dialog_node": "handler_9_1590485828822",
+      "previous_sibling": "handler_1_1590485669984"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "I'd suggest Fatty Fish, Leafy greens, Cinnamon, Eggs, and Chia Seeds for Sugar Patients"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1590484967589",
+      "conditions": "$person==\"diabetes\"",
+      "event_name": "filled",
+      "dialog_node": "handler_1_1590485669984",
+      "previous_sibling": "handler_4_1590485455548"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1590484967589",
+      "context": {
+        "person": "@person"
+      },
+      "conditions": "@person",
+      "event_name": "input",
+      "dialog_node": "handler_10_1590484967621"
+    },
+    {
+      "type": "standard",
+      "title": "No Such Location",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately, we don’t have a hospital in @sys-location. To date, we have Hospitals in Malakpet, Secunderabad, Somajiguda. We are planning a hospital in Hi-Tech City."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590483285329",
+      "conditions": "@sys-location",
+      "dialog_node": "node_7_1590483285342",
+      "previous_sibling": "node_3_1590483285342"
+    },
+    {
+      "type": "standard",
+      "title": "Location Not Provided",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our Hospitals are located at <br>1) Secunderabad<br>2)Malakpet<br>3)Somajiguda.<br>Find for <a href=\"https://www.yashodahospitals.com/\">locations </a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590483285329",
+      "conditions": "true",
+      "dialog_node": "node_8_1590483285342",
+      "previous_sibling": "node_7_1590483285342"
+    },
+    {
+      "type": "standard",
+      "title": "Our Locations",
+      "output": {},
+      "parent": "node_2_1590483285329",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@location",
+      "dialog_node": "node_3_1590483285342"
+    },
+    {
+      "type": "standard",
+      "title": "No Such Location",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately, we don’t have a hospital in @sys-location. To date, we have Hospitals in Malakpet, Secunderabad, Somajiguda. We are planning a hospital in Hi-Tech City."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590487250770",
+      "conditions": "@sys-location",
+      "dialog_node": "node_7_1590487250790",
+      "previous_sibling": "node_3_1590487250790"
+    },
+    {
+      "type": "standard",
+      "title": "Doctors_info Not Provided",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Find for other <a href=\"https://www.yashodahospitals.com/\"> doctors availability</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590487250770",
+      "conditions": "true",
+      "dialog_node": "node_8_1590487250790",
+      "previous_sibling": "node_7_1590487250790"
+    },
+    {
+      "type": "standard",
+      "title": "Doctors_ava",
+      "output": {},
+      "parent": "node_2_1590487250770",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@doctors",
+      "dialog_node": "node_3_1590487250790"
+    },
+    {
+      "type": "standard",
+      "title": "Thank you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You're welcome."
+              },
+              {
+                "text": "My pleasure."
+              },
+              {
+                "text": "No problem."
+              },
+              {
+                "text": "I aim to please."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590466231242",
+      "conditions": "#thank_you",
+      "dialog_node": "node_1_1590466334599",
+      "previous_sibling": "node_9_1590466293675"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbyes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Goodbye."
+              },
+              {
+                "text": "Nice talking to you today."
+              },
+              {
+                "text": "Have a nice day."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590466231242",
+      "conditions": "#goodbyes",
+      "dialog_node": "node_2_1590466426976",
+      "previous_sibling": "node_1_1590466334599"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi there. How can I help you?"
+              },
+              {
+                "text": "Hello. How may I assist you today?"
+              },
+              {
+                "text": "Hi. What can I help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590466231242",
+      "conditions": "#greetings",
+      "dialog_node": "node_9_1590466293675"
+    },
+    {
+      "type": "standard",
+      "title": "No Such Location",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately, we don’t have a hospital in @sys-location. To date, we have Hospitals in Malakpet, Secunderabad, Somajiguda. We are planning a hospital in Hi-Tech City."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590466112525",
+      "conditions": "@sys-location",
+      "dialog_node": "node_10_1590467784749",
+      "previous_sibling": "node_5_1590466825785"
+    },
+    {
+      "type": "standard",
+      "title": "Location Not Provided",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our hours of operations are listed on <a href=\"https://www.yashodahospitals.com/\">our Hours page</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590466112525",
+      "conditions": "true",
+      "dialog_node": "node_1_1590468021300",
+      "previous_sibling": "node_10_1590467784749"
+    },
+    {
+      "type": "standard",
+      "title": "Our Locations",
+      "parent": "node_9_1590466112525",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@location",
+      "dialog_node": "node_5_1590466825785"
+    },
+    {
+      "type": "standard",
+      "title": "Hours_information",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#hours_info",
+      "dialog_node": "node_9_1590466112525",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "folder",
+      "title": "chitchat",
+      "dialog_node": "node_3_1590466231242",
+      "previous_sibling": "node_6_1590484936783"
+    },
+    {
+      "type": "standard",
+      "title": "Doctors_information",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#doctors_avail",
+      "dialog_node": "node_2_1590487250770",
+      "previous_sibling": "node_2_1590483285329"
+    },
+    {
+      "type": "frame",
+      "title": "diet",
+      "conditions": "#diet_plan",
+      "dialog_node": "node_6_1590484936783",
+      "previous_sibling": "node_2_1590487250770"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_3_1590466231242",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Location_information",
+      "output": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#location_info",
+      "dialog_node": "node_2_1590483285329",
+      "previous_sibling": "node_9_1590466112525"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. I'm a WE CARE BOT. Here to assist you with your questions about Hospital hours, locations, as well as Doctors \n Availability and diet plans. What name can I call you by?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Medical Skill",
+  "language": "en",
+  "description": ""
+}
